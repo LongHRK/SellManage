@@ -1,0 +1,14 @@
+D:\C#\StudentManage\StudentManage\obj\Debug\SellManage.csprojAssemblyReference.cache
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Bill.Billofsale.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Category.Customer.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Category.Items.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Category.Material.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Category.Staff.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Home.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Login.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Properties.Resources.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.Search.SearchBill.resources
+D:\C#\StudentManage\StudentManage\obj\Debug\SellManage.csproj.GenerateResource.cache
+D:\C#\StudentManage\StudentManage\obj\Debug\SellManage.csproj.CoreCompileInputs.cache
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.exe
+D:\C#\StudentManage\StudentManage\obj\Debug\StudentManage.pdb
